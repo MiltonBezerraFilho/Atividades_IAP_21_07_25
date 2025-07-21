@@ -1,3 +1,4 @@
+INCOMPLETO
 # Escreva um programa para determinar o número de algarismos de um número inteiro positivo dado.
 
 numero = ( input("Insira um número inteiro: "))
