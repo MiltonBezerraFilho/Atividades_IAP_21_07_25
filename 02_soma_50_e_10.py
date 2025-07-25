@@ -6,7 +6,7 @@ while (numero > 9):
     print(numero)
     numero -= 1
 
-print("---------------------")
+print("\n---------------------\n")
 
 contagem = 10
 soma = 0
@@ -14,4 +14,5 @@ soma = 0
 while (contagem < 51):
     soma += contagem
     contagem += 1
+if (contagem == 51):
     print(soma)
